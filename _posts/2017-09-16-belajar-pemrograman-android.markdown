@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Kelas Android"
+title:  "Pendaftaran Kelas Android"
 date:   2017-09-15 15:26:19 +0800
 author: Admin Coder Uniska
 categories: jekyll update
