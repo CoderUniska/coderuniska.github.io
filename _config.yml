@@ -1,0 +1,11 @@
+title: Coder Uniska
+author: Panoramedia
+email: panoramedia@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Website Muharir
+
+twitter_username: macrod68
+github_username:  macrod68
+
+sass:
+    style: compressed
