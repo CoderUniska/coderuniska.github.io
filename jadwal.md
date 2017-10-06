@@ -36,14 +36,14 @@ Jadwal kelas microcontroller dimulai,
 <table>
 	<tr>
 		<th>Hari/Tanggal</th>
-		<td>: (<i>belum terjadwal</i>)</td>
+		<td>: Minggu, 08 Oktober 2017</td>
 	</tr>
 	<tr>
 		<th>Tempat</th>
-		<td>: (<i>belum terjadwal</i>)</td>
+		<td>: Gedung B Lt. 2</td>
 	</tr>
 	<tr>
 		<th>Pukul</th>
-		<td>: (<i>belum terjadwal</i>)</td>
+		<td>: 19.30 sd selesai </td>
 	</tr>
 </table>
